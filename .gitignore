@@ -1,6 +1,7 @@
 ######################
 # Project Specific
 ######################
+.env
 
 ######################
 # Node
@@ -11,6 +12,7 @@ node_modules/
 npm-debug.log.*
 /.awcache/*
 /.cache-loader/*
+.next/
 
 ######################
 # SASS
